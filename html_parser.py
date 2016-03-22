@@ -28,7 +28,7 @@ class Parser(object):
             "|footnote|links|meta$|other-materials|shoutbox|sponsor|top-news|tags|socialnetworking|socialNetworking"
             "|^inset$|pagetools|tabloid|socials|social-|post-attributes|communitypromo|runaroundLeft|subscribe"
             "|vcard|articleheadings|print$|popup|author-dropdown|tools|socialtools|byline|read_also|incut|bottom"
-            "|sidebar|stream-news|widget|-prev|-next|slidenote|notification|baner|banner|aside|slick-slider|wgt"
+            "|^sidebar$|stream-news|widget|-prev|-next|slidenote|notification|baner|banner|aside|slick-slider|wgt"
             "|[Dd]igest|external|news-grid|latest|related|navigation|anchor|newsline|anonse|^warn|disclaim|^respond"
         )
 
